@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "book_loads",
+  "info": {
+    "singularName": "book-load",
+    "pluralName": "book-loads",
+    "displayName": "book_load"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "EAN": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
